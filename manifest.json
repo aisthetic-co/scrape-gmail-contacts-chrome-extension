@@ -1,6 +1,6 @@
 {
-  "name": "Scape Gmail Contacts",
-  "description": "Scape Gmail Contacts",
+  "name": "Gmail Data Scraper",
+  "description": "Gmail Data Scraper",
   "version": "1.0",
   "manifest_version": 3,
   "permissions": ["scripting", "activeTab"],
