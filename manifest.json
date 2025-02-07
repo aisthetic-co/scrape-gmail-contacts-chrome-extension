@@ -3,7 +3,7 @@
   "description": "Scape Gmail Contacts",
   "version": "1.0",
   "manifest_version": 3,
-  "permissions": ["scripting", "activeTab", "downloads"],
+  "permissions": ["scripting", "activeTab"],
   "action": {
     "default_popup": "popup/index.html"
   }
